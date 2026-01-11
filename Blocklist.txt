@@ -1,5 +1,4 @@
 ketchyvilla.com
-haberler.com
 8.8.8.8
 8.8.4.4
 2001:4860:4860::8888

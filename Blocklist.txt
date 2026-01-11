@@ -1,4 +1,5 @@
 ketchyvilla.com
+haberler.com
 # Google DNS
 8.8.8.8
 8.8.4.4

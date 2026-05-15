@@ -20,3 +20,5 @@ graph-fallback.instagram.com
 graph.facebook.com
 graph.instagram.com
 web.facebook.com
+netflix.com
+netflix.de

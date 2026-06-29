@@ -22,3 +22,4 @@ graph.instagram.com
 web.facebook.com
 netflix.com
 netflix.de
+tailscale.com

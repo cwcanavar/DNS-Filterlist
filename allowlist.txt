@@ -23,6 +23,4 @@ web.facebook.com
 netflix.com
 netflix.de
 tailscale.com
-browser-intake-datadoghq.com
 lgtvonline.lge.com
-eic.homeprv.lgtvcommon.com

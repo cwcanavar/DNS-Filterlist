@@ -24,3 +24,4 @@ netflix.com
 netflix.de
 tailscale.com
 browser-intake-datadoghq.com
+lgtvonline.lge.com
